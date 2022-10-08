@@ -1,8 +1,6 @@
 # Leetcode_practice_template
 
-****This code challenges aims to add some points to your Leetcode account.****
-
-please create your own account and try to solve as much as you can even if it was not an assignment, since a lot of employers take Leetcode profile into consideration.
+****This code challenges aims to add some points to my Leetcode account.****
 
 **Leetcode** : [https://leetcode.com/](https://leetcode.com/)
 
